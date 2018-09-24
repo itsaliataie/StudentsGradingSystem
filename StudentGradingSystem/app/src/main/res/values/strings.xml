@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentGradingSystem</string>
+    <string name="title">Student Grading System</string>
+    <string name="sid">Student ID</string>
+    <string name="cname">Course Name</string>
+    <string name="total">Total Marks</string>
+    <string name="show">Show Grade</string>
+    <string name="grade">Grade</string>
+</resources>
